@@ -3,3 +3,12 @@ A Event App Developer into SwiftUI, App made to add Main Events and Unspecified 
 
 1. App which has All the details filtered into Main Events
 2. App which has only Event Name filtered into Unspecified Events
+
+# App Preview
+<kbd>
+<img src="Screenshot/EventUI_1.gif" alt="App Preview" width="250" /> 
+</kbd>
+&nbsp; &nbsp;
+<kbd>
+<img src="Screenshot/EventUI_2.gif" alt="App Preview" width="250" /> 
+</kbd>
